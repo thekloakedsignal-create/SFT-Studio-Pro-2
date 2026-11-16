@@ -1,0 +1,116 @@
+SFT Studio Pro
+
+A Supervised Fine-Tuning Development Environment
+
+Build. Curate. Train. Evaluate. Deploy.
+
+Creator: Rose G. Loops
+Organization: TRiADiC Intelligence Labs
+Platform: https://sftstudio.pro
+Documentation: https://sftstudio.pro/manual.html
+
+Overview
+
+SFT Studio Pro is a proprietary development environment for creating, preparing, training, and evaluating supervised fine-tuned language models.
+
+It brings the supervised fine-tuning workflow into one integrated environment, from project definition and training-example development through dataset quality assurance, compilation, model training, deployment, and inference testing.
+
+The platform is designed to give model developers direct control over training data, behavioral objectives, example quality, and model adaptation.
+
+Core Capabilities
+
+Project Definition
+Establish model identity, objectives, behavioral requirements, instructions, and constraints before generating training data.
+
+Golden Exemplars
+Create reference examples that establish the desired response quality, behavior, and output standards.
+
+Batch Synthesizer
+Generate structured supervised training examples across selected skills, subjects, and response styles.
+
+Document Converter
+Transform knowledge documents, reference materials, and transcripts into supervised training examples.
+
+Quality Assurance
+Review generated examples, identify quality issues, regenerate content, detect duplicates, and approve training batches.
+
+Dataset Registry
+Organize, manage, and maintain approved training datasets and their constituent batches.
+
+Compile and Export
+Compile approved examples into training and validation datasets for model-specific training workflows.
+
+Automated Training
+Configure and execute supervised fine-tuning of pretrained language models, including full-parameter training configurations.
+
+Deployment and Sampling
+Deploy trained checkpoints for inference, sample generation, and first-conversation testing.
+
+Development Workflow
+
+SFT Studio Pro organizes model development into a connected workflow:
+
+1. Define the project and model objectives.
+2. Establish golden exemplars.
+3. Generate training examples using the Batch Synthesizer.
+4. Convert external knowledge materials into training data.
+5. Review and approve examples through quality assurance.
+6. Register and organize approved datasets.
+7. Compile training and validation splits.
+8. Configure and execute supervised fine-tuning.
+9. Deploy the resulting checkpoint.
+10. Test model behavior through inference and sampling.
+
+This workflow connects dataset construction and model training rather than treating them as unrelated processes.
+
+Training Philosophy
+
+SFT Studio Pro centers supervised fine-tuning as a direct method of model adaptation.
+
+The training process uses curated demonstrations to teach models target capabilities, knowledge, communication patterns, and behavioral standards.
+
+The platform supports research into alignment through supervised training without requiring reinforcement learning from human feedback, reward models, or preference optimization.
+
+It also supports experimentation with structured behavioral frameworks, including Freedom, Truth, and Kindness (FTK).
+
+Research and Applications
+
+SFT Studio Pro has been used in the development of proprietary model experiments and specialized conversational systems.
+
+Applications include:
+
+* Domain-specific language models.
+* Specialized knowledge assistants.
+* Behavioral and communication adaptation.
+* Structured reasoning and instruction following.
+* Human-services and case-management applications.
+* Dataset generation and supervised training research.
+* Model deployment and comparative evaluation.
+
+The platform supports experimentation across different pretrained model architectures and parameter scales.
+
+Related Research
+
+Rose G. Loops (2026)
+Triadic Alignment: FTK-Weighted Supervised Fine-Tuning as a Complete Alignment System.
+
+DOI: 10.13140/RG.2.2.27133.12007
+
+Read the research on ResearchGate
+
+This research investigates Freedom, Truth, and Kindness as a weighted framework for behavioral alignment through supervised fine-tuning.
+
+Documentation
+
+Platform: https://sftstudio.pro
+User Manual: https://sftstudio.pro/manual.html
+
+Creator
+
+Rose G. Loops
+Founder, TRiADiC Intelligence Labs
+Creator of SFT Studio Pro
+
+Citation
+
+Loops, R. G. (2026). SFT Studio Pro: A Supervised Fine-Tuning Development Environment. TRiADiC Intelligence Labs. https://sftstudio.pro
